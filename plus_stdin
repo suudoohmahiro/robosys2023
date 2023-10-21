@@ -1,11 +1,17 @@
 #!/usr/bin/python3
 import sys
 
+<<<<<<< HEAD
 ans = 0
 for line in sys.stdin:
     try:
         ans += int(line)
     except:
         ans += float(line)
+=======
+ans = 0.0
+for line in sys.stdin:
+  ans += float(line)
+>>>>>>> 61be3b974161e9f9ff258a4b1c890bc2f4a6c1c4
 
 print(ans)
