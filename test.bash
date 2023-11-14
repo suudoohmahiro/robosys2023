@@ -1,5 +1,5 @@
 #!/bin/bash
-#SPDX-FileCopyrightText: 2023 MahiroSudoh
+#SPDX-FileCopyrightText: 2023 Mahiro Sudoh
 #SPDX-License-Identifier: BSD-3-Clause
 
 
