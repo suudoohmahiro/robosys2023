@@ -1,11 +1,23 @@
 ![test](https://github.com/suudoohmahiro/robosys2023/actions/workflows/test.yml/badge.svg)
 
 # pludコマンド
----
+
 ### コマンド概要
 標準入力から読み込んだ数字を足す
+
 ### 使用方法
-`$ seq [数値] | ./plus`
+```
+$ seq [数値] | ./plus
+```
+### 使用例
+```
+$ seq [5] | ./plus
+```
+
+### 出力結果
+```
+15
+```
 
 ## 必要なソフトウェア
 * Python
