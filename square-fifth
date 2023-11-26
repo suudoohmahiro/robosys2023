@@ -1,0 +1,30 @@
+#!/usr/bin/python3
+#SPDX-FileCopyrightText: 2023 Mahiro Sudoh
+#SPDX-License-Identifier: BSD-3-Clause
+import sys
+from decimal import Decimal
+
+ans_square = 0
+ans_cube = 0
+ans_fourth = 0
+ans_fifth = 0
+
+for line in sys.stdin:
+    try:
+        num = int(line)
+        ans_square += num ** 2
+        ans_cube += num ** 3
+        ans_fourth += num ** 4
+        ans_fifth += num ** 5
+    except:
+        num = Decimal(line)
+        ans_square += num ** 2
+        ans_cube += num ** 3
+        ans_fourth += num ** 4
+        ans_fifth += num ** 5
+    
+print("input numbar", num)
+print("Sum of squares:", ans_square)
+print("Sum of cubes:", ans_cube)
+print("Sum of fourth powers:", ans_fourth)
+print("Sum of fifth powers:", ans_fifth)
