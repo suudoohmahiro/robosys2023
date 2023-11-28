@@ -1,8 +1,8 @@
 ## レポジトリについて
+![test](https://github.com/suudoohmahiro/robosys2023/actions/workflows/test.yml/badge.svg)
 * plusコマンドとsquare-fifthコマンドについてのレポジトリ
 
 ## レポジトリの使用方法
-![test](https://github.com/suudoohmahiro/robosys2023/actions/workflows/test.yml/badge.svg)
 
 * ターミナルで以下のコマンドを実行
 ```
