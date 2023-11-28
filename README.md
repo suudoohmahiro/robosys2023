@@ -19,6 +19,7 @@ $ seq [5] | ./plus
 15
 ```
 # square-fifthコマンド
+![test](https://github.com/suudoohmahiro/robosys2023/actions/workflows/square-fifth_test.yml/badge.svg)
 
 ### コマンド概要
 標準入力から読み込んだ数字を1乗から5乗まで行う
