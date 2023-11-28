@@ -1,12 +1,15 @@
-## レポジトリの使用方法
+# レポジトリの使用方法
 * ターミナルで以下のコマンドを実行
 ```
 $ git clone https://github.com/suudoohmahiro/robosys2023
 ```
-
-![test](https://github.com/suudoohmahiro/robosys2023/actions/workflows/test.yml/badge.svg)
+```
+$ cd robosys2023
+```
 
 # plusコマンド
+
+![test](https://github.com/suudoohmahiro/robosys2023/actions/workflows/test.yml/badge.svg)
 
 #### コマンド概要
 * 標準入力から読み込んだ数字を足す
