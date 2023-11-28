@@ -54,13 +54,14 @@ $ echo 2 | ./square-fifth
 16
 32
 ```
-## 必要なソフトウェア
-* Python
-  * テスト済み: 3.7～3.10
 ## Author
 * 作成者 須藤真央
 * 所属 千葉工業大学
 * E-mail s22c1073xq@s.chibakoudai.jp
+
+## 必要なソフトウェア
+* Python
+  * テスト済み:3.7~3.10
 
 ## テスト環境
 * Ubuntu  
