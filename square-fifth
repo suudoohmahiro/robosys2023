@@ -23,8 +23,8 @@ for line in sys.stdin:
         ans_fourth += num ** 4
         ans_fifth += num ** 5
     
-print("input numbar", num)
-print("Sum of squares:", ans_square)
-print("Sum of cubes:", ans_cube)
-print("Sum of fourth powers:", ans_fourth)
-print("Sum of fifth powers:", ans_fifth)
+print(num)
+print(ans_square)
+print(ans_cube)
+print(ans_fourth)
+print(ans_fifth)
