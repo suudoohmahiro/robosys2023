@@ -1,3 +1,9 @@
+## レポジトリの使用方法
+* ターミナルで以下のコマンドを実行
+```
+$ git clone https://github.com/suudoohmahiro/robosys2023
+```
+
 ![test](https://github.com/suudoohmahiro/robosys2023/actions/workflows/test.yml/badge.svg)
 
 # plusコマンド
@@ -21,20 +27,20 @@ $ seq [5] | ./plus
 # square-fifthコマンド
 ![test](https://github.com/suudoohmahiro/robosys2023/actions/workflows/square-fifth_test.yml/badge.svg)
 
-### コマンド概要
+#### コマンド概要
 * 標準入力から読み込んだ数字を1乗から5乗まで行う
 
-### 使用方法
+#### 使用方法
 ```
 $ echo 数値 | ./square-fifth
 ```
 
-### 使用例
+#### 使用例
 ```
 $ echo 2 | ./square-fifth
 ```
 
-### 出力結果
+#### 出力結果
 ```
 2
 4
