@@ -2,6 +2,8 @@
 * plusコマンドとsquare-fifthコマンドについてのレポジトリ
 
 ## レポジトリの使用方法
+![test](https://github.com/suudoohmahiro/robosys2023/actions/workflows/test.yml/badge.svg)
+
 * ターミナルで以下のコマンドを実行
 ```
 $ git clone https://github.com/suudoohmahiro/robosys2023
@@ -11,8 +13,6 @@ $ cd robosys2023
 ```
 
 # plusコマンド
-
-![test](https://github.com/suudoohmahiro/robosys2023/actions/workflows/test.yml/badge.svg)
 
 #### コマンド概要
 * 標準入力から読み込んだ数字を足す
@@ -31,7 +31,6 @@ $ seq [5] | ./plus
 15
 ```
 # square-fifthコマンド
-![test](https://github.com/suudoohmahiro/robosys2023/actions/workflows/square-fifth_test.yml/badge.svg)
 
 #### コマンド概要
 * 標準入力から読み込んだ数字を1乗から5乗まで行う
