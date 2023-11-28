@@ -61,8 +61,8 @@ $ echo 2 | ./square-fifth
 * Ubuntu
   
 ## Author
-* 作成者 須藤真央
-* 所属 千葉工業大学
+* Mahiro Sudoh
+* Chiba Institute of Technology
 * E-mail s22c1073xq@s.chibakoudai.jp
 
 
