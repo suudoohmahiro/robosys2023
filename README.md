@@ -1,4 +1,7 @@
-# レポジトリの使用方法
+# このレポジトリについて
+* plusコマンドとsquare-fifthコマンドについてのレポジトリ
+
+### レポジトリの使用方法
 * ターミナルで以下のコマンドを実行
 ```
 $ git clone https://github.com/suudoohmahiro/robosys2023
@@ -54,6 +57,10 @@ $ echo 2 | ./square-fifth
 ## 必要なソフトウェア
 * Python
   * テスト済み: 3.7～3.10
+## Author
+* 作成者 須藤真央
+* 所属 千葉工業大学
+* E-mail s22c1073xq@s.chibakoudai.jp
 
 ## テスト環境
 * Ubuntu  
