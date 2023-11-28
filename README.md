@@ -1,6 +1,6 @@
 ![test](https://github.com/suudoohmahiro/robosys2023/actions/workflows/test.yml/badge.svg)
 
-# pludコマンド
+# plusコマンド
 
 #### コマンド概要
 標準入力から読み込んだ数字を足す
@@ -18,7 +18,29 @@ $ seq [5] | ./plus
 ```
 15
 ```
+# square-fifthコマンド
 
+###　コマンド概要
+標準入力から読み込んだ数字を1乗から5乗まで行う
+
+### 使用方法
+```
+$ echo 数値 | ./square-fifth
+```
+
+### 使用例
+```
+$ echo 2 | ./square-fifth
+```
+
+###出力結果
+```
+2
+4
+8
+16
+32
+```
 ## 必要なソフトウェア
 * Python
   * テスト済み: 3.7～3.10
