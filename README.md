@@ -1,7 +1,7 @@
-# このレポジトリについて
+## レポジトリについて
 * plusコマンドとsquare-fifthコマンドについてのレポジトリ
 
-### レポジトリの使用方法
+## レポジトリの使用方法
 * ターミナルで以下のコマンドを実行
 ```
 $ git clone https://github.com/suudoohmahiro/robosys2023
