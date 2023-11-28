@@ -3,7 +3,7 @@
 # plusコマンド
 
 #### コマンド概要
-標準入力から読み込んだ数字を足す
+* 標準入力から読み込んだ数字を足す
 
 #### 使用方法
 ```
@@ -22,7 +22,7 @@ $ seq [5] | ./plus
 ![test](https://github.com/suudoohmahiro/robosys2023/actions/workflows/square-fifth_test.yml/badge.svg)
 
 ### コマンド概要
-標準入力から読み込んだ数字を1乗から5乗まで行う
+* 標準入力から読み込んだ数字を1乗から5乗まで行う
 
 ### 使用方法
 ```
@@ -55,5 +55,5 @@ $ echo 2 | ./square-fifth
 * このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです．
 	* [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 
-* © 2023 Mahiro Sudoh
+© 2023 Mahiro Sudoh
 
