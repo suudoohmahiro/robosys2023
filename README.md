@@ -2,7 +2,7 @@
 ![test](https://github.com/suudoohmahiro/robosys2023/actions/workflows/test.yml/badge.svg)
 * plusコマンドとsquare-fifthコマンドについてのレポジトリ
 
-## レポジトリの使用方法
+## ダウンロード方法 
 
 * ターミナルで以下のコマンドを実行
 ```
@@ -19,11 +19,11 @@ $ cd robosys2023
 
 #### 使用方法
 ```
-$ seq [数値] | ./plus
+$ seq 数値 | ./plus
 ```
 #### 使用例
 ```
-$ seq [5] | ./plus
+$ seq 5 | ./plus
 ```
 
 #### 出力結果
@@ -58,8 +58,8 @@ $ echo 2 | ./square-fifth
   * テスト済み:3.7~3.10
 
 ## テスト環境
-* Ubuntu
-  
+* Ubuntu 22.04.3 LTS
+ 
 ## Author
 * Mahiro Sudoh
 * Chiba Institute of Technology
