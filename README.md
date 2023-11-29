@@ -1,6 +1,7 @@
 ## レポジトリについて
 ![test](https://github.com/suudoohmahiro/robosys2023/actions/workflows/test.yml/badge.svg)
-* plusコマンドとsquare-fifthコマンドについてのレポジトリ
+* ロボットシステム学の授業内で作ったレポジトリ
+* plusコマンドとsquare-fifthコマンドの2つについてのレポジトリ
 
 ## ダウンロード方法 
 
