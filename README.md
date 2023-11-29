@@ -16,7 +16,7 @@ $ cd robosys2023
 
 #### コマンド概要
 * 標準入力から読み込んだ数字を足す
-
+  * 整数の場合は整数で、小数の場合は小数で返す
 #### 使用方法
 ```
 $ seq 数値 | ./plus
@@ -34,7 +34,7 @@ $ seq 5 | ./plus
 
 #### コマンド概要
 * 標準入力から読み込んだ数字を1乗から5乗まで行う
-
+  * 小数でも可能
 #### 使用方法
 ```
 $ echo 数値 | ./square-fifth
@@ -64,7 +64,6 @@ $ echo 2 | ./square-fifth
 * Mahiro Sudoh
 * Chiba Institute of Technology
 * E-mail s22c1073xq@s.chibakoudai.jp
-
 
 ## LICENSE・著作権
 
